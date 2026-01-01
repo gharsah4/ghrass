@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674387350242",
+    "project_id": "gheras-app-bde92",
+    "storage_bucket": "gheras-app-bde92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674387350242:android:f9d611aa6d9ac25b1f84bb",
+        "android_client_info": {
+          "package_name": "com.example.untitled33333333"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qTf_l-28rFQoH5N1f2F9xE-ogDFnpFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
